@@ -1,0 +1,35 @@
+Linear Regression:
+  RMSE: 0.694
+  MAE : 0.343
+  Max Error: 14.884
+  R² Score: 0.289
+
+Ridge Regression:
+  RMSE: 0.675
+  MAE : 0.329
+  Max Error: 15.116
+  R² Score: 0.328
+
+Lasso Regression:
+  RMSE: 0.822
+  MAE : 0.375
+  Max Error: 19.968
+  R² Score: 0.003
+
+K-Nearest Neighbors:
+  RMSE: 0.668
+  MAE : 0.292
+  Max Error: 14.834
+  R² Score: 0.342
+
+Random Forest:
+  RMSE: 0.665
+  MAE : 0.245
+  Max Error: 15.783
+  R² Score: 0.347
+
+Gradient Boosting:
+  RMSE: 0.641
+  MAE : 0.289
+  Max Error: 15.245
+  R² Score: 0.394
